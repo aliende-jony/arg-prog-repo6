@@ -1,0 +1,22 @@
+
+.f-tp6{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    .p{
+        font-size: 1.5rem;
+        color:#FEFDFB;
+        text-decoration: underline;
+    }
+}
+
+.form-control{
+    color: black;
+    border: none;
+    border-radius: 3px;
+    border-bottom: 1px solid black;
+    cursor: pointer;
+}
+.btn{
+    border-radius: .4rem;
+}
